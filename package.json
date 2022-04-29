@@ -1,0 +1,19 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armap99/Fizzbuzz.git"
+  },
+  "author": "armap99",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armap99/Fizzbuzz/issues"
+  },
+  "homepage": "https://github.com/armap99/Fizzbuzz#readme"
+}
